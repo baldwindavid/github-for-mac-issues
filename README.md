@@ -1,4 +1,4 @@
-I don't currently see any way to report [Github for Mac](http://mac.github.com/) issues other than a [contact form](https://github.com/contact), so I'm keeping track here.  Feel free to add your own with [Github Issues](https://github.com/baldwindavid/github-for-mac-issues/issues)
+I don't currently see any way to report [Github for Mac](http://mac.github.com/) issues other than a [contact form](https://github.com/contact), so I'm keeping track here.  Feel free to add your own with this repo's [Github Issues](https://github.com/baldwindavid/github-for-mac-issues/issues)
 
 Please note that I am in no way affiliated with Github and I have no more pull with them than you.  Further, **you** will still need to manually submit your issue via the Github [contact form](https://github.com/contact).  This is simply a place to organize and update the tickets.  I also link to the ticket when submitting to the contact form so it is easier for Github support to follow.  Ideally, Github will start using their own great issue tracker to manage this process in the future...but I'm not complaining; this is awesome (and free) software.
 
